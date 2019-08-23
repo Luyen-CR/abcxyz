@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+}
+.power{
+    width: 1273px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+.power .header #h1{
+    padding-left: 38%;
+    padding-top: 3%;
+    margin-bottom: 3%;
+}
+.power .header .menu{
+    border: 5px solid white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+    padding-left: 340px;
+  }
+  
+  li {
+    float: left;
+    margin-left: 10px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover{
+      background-color: rgba(71, 252, 0, 0.568);
+  }
+.content{
+
+    width: 100px;
+}
+.navbar{
+    display: flex;
+    width: 1259px;
+    margin: 5px;
+    border: 1px solid white;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+}
+
+.navbar img{
+ 
+    height: auto;
+}
+.power .content #p1{
+    margin-left: 4%;
+    margin-top: 1%;
+    font-size: 20px;
+    text-decoration: none;
+}
+.power .content #p2{
+    margin-left: 4%;
+    margin-top: 1%;
+    font-size: 20px;
+}
+.power .content #p3{
+    margin-left: 4%;
+    margin-top: 1%;
+    font-size: 20px;
+}
+.form{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 9px;
+}
+.test{
+    line-height: 50px;
+    font-size: 35px;
+    font-family: cursive;
+    color: red;
+}
+table{
+    margin-left: 30%;
+}
